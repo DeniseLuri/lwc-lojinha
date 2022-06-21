@@ -1,0 +1,50 @@
+h1 {
+    text-align: center;
+    font-size: 25px;
+    color: rgb(px0, 112, 210);
+    font-weight: bold;
+}
+
+h2 {
+    font-size: 20px;
+    text-align: center;
+    color: blueviolet;
+    text-decoration: solid;
+    font-weight: bold;
+}
+h3{
+    font-size: 15px;
+    text-align: center;
+    color:red;
+    text-decoration: solid;
+    font-weight: bold;
+}
+
+p {
+    font-family: 'Salesforce Sans', Arial, sans-serif;
+    color: rgb(62, 62, 60);
+}
+.app {
+    background-color: #fafaf9;
+    height: 100vh;
+    overflow: scroll;
+}
+
+img{margin: auto;
+    height: 100px;
+    width: 100px;
+    
+    
+}
+template {
+     margin: 10px 10px 10px 10px;
+}
+
+
+div{font-size: 15px;
+    padding-left:  0.5cm;
+    padding-top:  0.5cm;
+    padding-right:  0.5cm;
+    padding-bottom:  0.5cm;
+    position: relative;
+}
